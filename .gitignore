@@ -1,1 +1,5 @@
 venv/
+auto_sync.sh
+cron_log/err.log
+.gitignore
+cron_log/run.log
